@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://example.com">
+  <title>リダイレクト中...</title>
+</head>
+<body>
+  <p>移動しない場合は <a href="https://example.com">こちらをクリック</a> してください。</p>
+</body>
+</html>
